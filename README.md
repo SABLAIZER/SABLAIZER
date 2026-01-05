@@ -1,19 +1,18 @@
 # SABLAIZER
 
-Welcome to the SABLAIZER project! This repository is intended to [describe the purpose and use of your project here].
+**Project Name:** SABLAIZER
 
-## Features
-- Feature 1
-- Feature 2
+**Description:** SABLAIZER is my personal brand project where I share the meaning of my name online and make it known globally.
 
-## Installation
-Provide installation steps or commands.
+## Purpose
+- Share the meaning of “Sablaizer”
+- Build my personal brand
+- Engage with people who want to know about the name
 
-## Usage
-Explain how to use your project.
+## Features (Future Updates)
+- Interactive sections
+- Multimedia content (images/videos)
+- Community engagement
 
-## Contributing
-Feel free to suggest improvements or open issues.
-
-## License
-Specify the license information here.
+## Author
+Evans Kwaku Sablah (Sablaizer)
